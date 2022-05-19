@@ -5,5 +5,5 @@ This was a failed attempt to locate archived copies of [Ayo Scott]'s terminated 
     $ twarc2 csv ayo.jsonl ayo.csv
     $ python3 urls.py
 
-Sadly, not one was archived.
+Sadly, not one of the 1,542 Instagram URLs were archived.
 
